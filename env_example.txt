@@ -1,0 +1,9 @@
+# MySQL Database Configuration
+MYSQL_USER=root
+MYSQL_PASSWORD=your_mysql_password
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_DATABASE=nsfw_filter_db
+
+# JWT Configuration
+SECRET_KEY=your-super-secret-jwt-key 
